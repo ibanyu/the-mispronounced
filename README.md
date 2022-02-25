@@ -4,7 +4,7 @@ A curated collection of words that are often mispronounced.
 
 ## Common words
 
-access, admin, agile, AJAX, alias, Apache, app, archive, array, ASCII, avatar, binary, bind, cache, daemon, deque, digest, document, event, format, git, graph, GUI, height, hidden, image, integer, issue, jpeg, lambda, locale, margin, module, null, parameter, query, queue, schema, sudo, variable, width
+abstraction, access, admin, agile, AJAX, alias, algorithm, Apache, app, archive, array, ASCII, avatar, binary, bind, cache, campaign, check, context, daemon, deque, digest, document, event, format, git, graph, GUI, height, hidden, image, integer, issue, jpeg, lambda, list, locale, margin, module, null, parameter, product, project, query, queue, schema, sprint, stack, stats (statistics), sudo, variable, width
 
 ## Programming languages
 
@@ -12,7 +12,7 @@ C#, Elixir, Haskell, Java, Lisp, Perl, Python, Scala, Scheme, SQL
 
 ## Cloud native
 
-Cassandra, Envoy, Fluentd, Helm, Istio, Jaeger, Jenkins, Kafka, Kubernetes, OpenTelemetry, Prometheus, Pulsar, Thanos, Thrift
+Cassandra, Docker, Envoy, Fluentd, Helm, Istio, Jaeger, Jenkins, Kafka, Kubernetes, OpenTelemetry, Prometheus, Pulsar, Thanos, Thrift
 
 ## Databases
 
