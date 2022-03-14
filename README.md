@@ -12,7 +12,7 @@ C#, Elixir, Haskell, Java, Lisp, Perl, Python, Scala, Scheme, SQL
 
 ## Cloud native
 
-Cassandra, Docker, Envoy, Fluentd, Helm, Istio, Jaeger, Jenkins, Kafka, Kubernetes, OpenTelemetry, Prometheus, Pulsar, Thanos, Thrift
+Ansible, Docker, Envoy, Fluentd, Helm, Istio, Jaeger, Jenkins, Kafka, Kubernetes, OpenTelemetry, Prometheus, Pulsar, Thanos, Thrift
 
 ## Databases
 
