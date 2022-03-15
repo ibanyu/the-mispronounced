@@ -8,7 +8,7 @@ abstraction, access, admin, agile, AJAX, alias, algorithm, Apache, app, archive,
 
 https://user-images.githubusercontent.com/18113865/158326601-e29b6e99-3976-4fa0-898f-153d65999a44.mp4
 
-示例录音 🔊 由[陈易生](https://github.com/YikSanChan)提供。
+This sample recording 🔊 is provided by [Yik San Chan](https://github.com/YikSanChan) 👏.
 
 
 ## Programming languages
