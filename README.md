@@ -13,7 +13,7 @@ This sample recording 🔊 is provided by [Yik San Chan](https://github.com/YikS
 
 ## Programming languages
 
-C#, Elixir, Haskell, Java, Lisp, Perl, Python, Scala, Scheme, SQL
+C#, ECMAScript, Elixir, Haskell, Java, Lisp, Perl, Python, Scala, Scheme, SQL
 
 ## Cloud native
 
