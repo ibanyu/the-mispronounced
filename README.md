@@ -4,7 +4,7 @@ A curated collection of words that are often mispronounced.
 
 ## Common words
 
-abstraction, access, admin, agile, AJAX, alias, algorithm, Apache, app, archive, array, ASCII, avatar, binary, bind, cache, campaign, check, context, daemon, deque, digest, document, event, exit, failure, format, geek, git, graph, GUI, height, hidden, image, integer, issue, jpeg, lambda, list, locale, margin, mentor, MIME type, module, null, parameter, product, project, query, queue, repo (repository), schema, sprint, stack, stats (statistics), sudo, threshold, variable, width, zone
+abstraction, access, admin, agile, AJAX, alias, algorithm, Apache, app, archive, array, ASCII, avatar, binary, bind, cache, campaign, check, context, daemon, deque, digest, document, event, exit, failure, format, geek, git, graph, GUI, height, hidden, image, integer, issue, jpeg, lambda, list, locale, margin, mentor, MIME type, module, null, parameter, pause, product, project, query, queue, repo (repository), schema, sprint, stack, stats (statistics), sudo, threshold, variable, width, zone
 
 https://user-images.githubusercontent.com/18113865/158326601-e29b6e99-3976-4fa0-898f-153d65999a44.mp4
 
