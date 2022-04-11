@@ -21,5 +21,8 @@ Ansible, Docker, Envoy, Fluentd, Helm, Istio, Jaeger, Jenkins, Kafka, Kubernetes
 
 ## Databases
 
-Algolia, Cassandra, CockroachDB, Elasticsearch, Firebase, Graphite, Impala, Memcached, MySQL, Neo4j, PostgreSQL, RocksDB, Solr, SQLite,
+Algolia, Cassandra, CockroachDB, Elasticsearch, Firebase, Graphite, Lucene, Impala, Memcached, MySQL, Neo4j, PostgreSQL, RocksDB, Solr, SQLite
 
+## Networking
+
+Nginx, WAF
